@@ -1,0 +1,14 @@
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users. Here is the briefest record of our progress (* means estimated): eBooks Year Month     1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*

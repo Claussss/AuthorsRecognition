@@ -1,0 +1,11 @@
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR      [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR

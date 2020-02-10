@@ -1,0 +1,4 @@
+Enter Lucius, and Ligarius, with a kerchief round his head Here is a sick man that would speak with you. Caius Ligarius, that Metellus spake of.—
+Boy, stand aside. ExitLucius
+Caius Ligarius, how? Vouchsafe good morrow from a feeble tongue. O, what a time have you chose out, brave Caius,
+To wear a kerchief! Would you were not sick!

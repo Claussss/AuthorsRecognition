@@ -1,0 +1,8 @@
+
+ GRAMMAR AND METRE Most of the really unfamiliar deviations from Modern English grammatical norms which we encounter in Shakespeare arise in his verse, where he bends the construction to suit the demands of the metre. The approach to blank verse most favoured in Early Modern English took as its norm a line of five metrical units, or feet (a pentameter), with each foot in its most regular version represented by a two-syllable weak + strong (iambic) sequence, and the whole line ending in a natural pause and containing no internal break. Accordingly, the least amount of grammatical ‘bending’ takes place when a line coincides with the major unit of grammar, the sentence. This is a characteristic of much of Shakespeare’s early writing, as in this example from Queen Margaret:
+Be woe for me, more wretched than he is.
+ What, dost thou turn away and hide thy face?
+ I am no loathsome leper - look on me!
+ What, art thou, like the adder, waxen deaf?
+ Be poisonous too and kill thy forlorn queen.
+ (The First Part of the Contention
